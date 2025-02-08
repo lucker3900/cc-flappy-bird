@@ -1,0 +1,5 @@
+2025-02-08 14:48:19,034 - INFO - Initializing pygame
+2025-02-08 14:48:19,194 - INFO - Loading sound files
+2025-02-08 14:48:19,307 - INFO - Loading bird images
+2025-02-08 14:48:19,307 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\dist\CC Flappy Bird\_internal\img/bird1.png
+2025-02-08 14:48:19,307 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\dist\CC Flappy Bird\_internal\img/bird2.png

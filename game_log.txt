@@ -1,0 +1,147 @@
+2025-02-08 14:34:13,760 - INFO - Initializing pygame
+2025-02-08 14:34:13,852 - INFO - Loading resources
+2025-02-08 14:34:13,866 - INFO - Loaded bg.png
+2025-02-08 14:34:13,868 - INFO - Loaded ground.png
+2025-02-08 14:34:13,869 - INFO - Loaded pipe.png
+2025-02-08 14:34:13,869 - INFO - Loaded restart.png
+2025-02-08 14:34:13,869 - INFO - Loading sound files
+2025-02-08 14:34:14,002 - INFO - Loading bird images
+2025-02-08 14:34:14,002 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 14:34:14,003 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 14:34:14,003 - ERROR - Error during initialization: name 'jump_sound' is not defined
+2025-02-08 14:34:14,006 - ERROR - Traceback (most recent call last):
+  File "C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\cc_flappy-bird.py", line 69, in <module>
+    jump_sound.set_volume(0.5)
+    ^^^^^^^^^^
+NameError: name 'jump_sound' is not defined
+
+2025-02-08 14:34:27,026 - INFO - Initializing pygame
+2025-02-08 14:34:27,106 - INFO - Loading resources
+2025-02-08 14:34:27,119 - INFO - Loaded bg.png
+2025-02-08 14:34:27,121 - INFO - Loaded ground.png
+2025-02-08 14:34:27,122 - INFO - Loaded pipe.png
+2025-02-08 14:34:27,122 - INFO - Loaded restart.png
+2025-02-08 14:34:27,122 - INFO - Loading sound files
+2025-02-08 14:34:27,239 - INFO - Loading bird images
+2025-02-08 14:34:27,239 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 14:34:27,239 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 14:46:40,674 - INFO - Initializing pygame
+2025-02-08 14:46:40,845 - INFO - Loading sound files
+2025-02-08 14:46:40,968 - INFO - Loading bird images
+2025-02-08 14:46:40,968 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 14:46:40,968 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 14:56:11,521 - INFO - Initializing pygame
+2025-02-08 14:56:11,734 - INFO - Loading sound files
+2025-02-08 14:56:11,875 - INFO - Loading bird images
+2025-02-08 14:56:11,875 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 14:56:11,875 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:00:57,647 - INFO - Initializing pygame
+2025-02-08 15:00:57,823 - INFO - Loading sound files
+2025-02-08 15:00:57,941 - INFO - Loading bird images
+2025-02-08 15:00:57,941 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:00:57,942 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:01:31,681 - INFO - Initializing pygame
+2025-02-08 15:01:31,775 - INFO - Loading sound files
+2025-02-08 15:01:31,889 - INFO - Loading bird images
+2025-02-08 15:01:31,889 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:01:31,890 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:12:47,999 - INFO - Initializing pygame
+2025-02-08 15:12:48,168 - INFO - Loading sound files
+2025-02-08 15:12:48,319 - INFO - Loading bird images
+2025-02-08 15:12:48,319 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:12:48,320 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:13:42,023 - INFO - Initializing pygame
+2025-02-08 15:13:42,120 - INFO - Loading sound files
+2025-02-08 15:13:42,260 - INFO - Loading bird images
+2025-02-08 15:13:42,260 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:13:42,260 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:14:59,654 - INFO - Initializing pygame
+2025-02-08 15:14:59,791 - INFO - Loading sound files
+2025-02-08 15:14:59,968 - INFO - Loading bird images
+2025-02-08 15:14:59,968 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:14:59,969 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:16:59,863 - INFO - Initializing pygame
+2025-02-08 15:16:59,975 - INFO - Loading sound files
+2025-02-08 15:17:00,200 - INFO - Loading bird images
+2025-02-08 15:17:00,200 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:17:00,201 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:17:40,438 - INFO - Initializing pygame
+2025-02-08 15:17:40,569 - INFO - Loading sound files
+2025-02-08 15:17:40,710 - INFO - Loading bird images
+2025-02-08 15:17:40,710 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:17:40,711 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:23:10,075 - INFO - Initializing pygame
+2025-02-08 15:23:10,244 - INFO - Loading sound files
+2025-02-08 15:23:10,364 - INFO - Loading bird images
+2025-02-08 15:23:10,364 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:23:10,365 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:27:05,364 - INFO - Initializing pygame
+2025-02-08 15:27:05,527 - INFO - Loading sound files
+2025-02-08 15:27:05,641 - INFO - Loading bird images
+2025-02-08 15:27:05,641 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:27:05,641 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:28:07,805 - INFO - Initializing pygame
+2025-02-08 15:28:07,969 - INFO - Loading sound files
+2025-02-08 15:28:08,083 - INFO - Loading bird images
+2025-02-08 15:28:08,083 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:28:08,084 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:31:23,335 - INFO - Initializing pygame
+2025-02-08 15:31:23,499 - INFO - Loading sound files
+2025-02-08 15:31:23,615 - INFO - Loading bird images
+2025-02-08 15:31:23,615 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:31:23,616 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:34:34,884 - INFO - Initializing pygame
+2025-02-08 15:34:35,048 - INFO - Loading sound files
+2025-02-08 15:34:35,164 - INFO - Loading bird images
+2025-02-08 15:34:35,164 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:34:35,165 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:39:23,620 - INFO - Initializing pygame
+2025-02-08 15:39:24,114 - INFO - Loading sound files
+2025-02-08 15:39:24,243 - INFO - Loading bird images
+2025-02-08 15:39:24,243 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:39:24,244 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:40:03,729 - INFO - Initializing pygame
+2025-02-08 15:40:04,008 - INFO - Loading sound files
+2025-02-08 15:40:04,133 - INFO - Loading bird images
+2025-02-08 15:40:04,134 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:40:04,134 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:43:22,787 - INFO - Initializing pygame
+2025-02-08 15:43:22,900 - INFO - Loading sound files
+2025-02-08 15:43:23,032 - INFO - Loading bird images
+2025-02-08 15:43:23,032 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:43:23,033 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:44:45,597 - INFO - Initializing pygame
+2025-02-08 15:44:46,303 - INFO - Loading sound files
+2025-02-08 15:44:46,432 - INFO - Loading bird images
+2025-02-08 15:44:46,432 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:44:46,433 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:49:03,089 - INFO - Initializing pygame
+2025-02-08 15:49:03,662 - INFO - Loading sound files
+2025-02-08 15:49:03,776 - INFO - Loading bird images
+2025-02-08 15:49:03,776 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:49:03,777 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:51:49,841 - INFO - Initializing pygame
+2025-02-08 15:51:50,249 - INFO - Loading sound files
+2025-02-08 15:51:50,370 - INFO - Loading bird images
+2025-02-08 15:51:50,370 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:51:50,371 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:56:01,089 - INFO - Initializing pygame
+2025-02-08 15:56:01,621 - INFO - Loading sound files
+2025-02-08 15:56:01,735 - INFO - Loading bird images
+2025-02-08 15:56:01,735 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:56:01,735 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 15:58:22,118 - INFO - Initializing pygame
+2025-02-08 15:58:23,275 - INFO - Loading sound files
+2025-02-08 15:58:23,388 - INFO - Loading bird images
+2025-02-08 15:58:23,389 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 15:58:23,389 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 16:01:09,520 - INFO - Initializing pygame
+2025-02-08 16:01:09,854 - INFO - Loading sound files
+2025-02-08 16:01:10,002 - INFO - Loading bird images
+2025-02-08 16:01:10,002 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 16:01:10,003 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
+2025-02-08 16:10:06,884 - INFO - Initializing pygame
+2025-02-08 16:10:07,517 - INFO - Loading sound files
+2025-02-08 16:10:07,640 - INFO - Loading bird images
+2025-02-08 16:10:07,640 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird1.png
+2025-02-08 16:10:07,641 - INFO - Loading C:\Users\LENOVO\PycharmProjects\hello\pythonProject\cc_flappy-bird\img/bird2.png
